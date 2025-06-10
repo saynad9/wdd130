@@ -5,14 +5,14 @@
 
 }
 .red1 { 
-  width: 300%; 
-   
+  width: 100px;
+  height: 100px;
   background-color: red; 
 
 } 
 .green1 {
-  width: 100px; 
-  height: 100px; 
+  width: 200px; 
+  height: 200px; 
   background-color: green; 
 
 } 

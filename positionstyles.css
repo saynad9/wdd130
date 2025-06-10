@@ -5,11 +5,11 @@
 
 }
 .red1 { 
-  width: 100px;
+  width: 100%px;
   height: 100px;
   background-color: red; 
-
 } 
+
 .green1 {
   width: 200px; 
   height: 200px; 
@@ -22,7 +22,7 @@
   background-color: gold; 
 } 
 .blue1 {
-  width: 100px; 
+  width: 100%px; 
   height: 100px; 
   background-color: blue; 
 } 

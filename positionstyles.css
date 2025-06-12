@@ -81,9 +81,11 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
+  display: grid;
+  grid-template-columns: 
 }
 .red3 {
-  width: 100px; 
+  width: 100%; 
   height: 100px; 
   background-color: red; 
 } 
@@ -98,7 +100,7 @@
   background-color: gold; 
 } 
 .blue3 {
-  width: 100px;
+  width: 100%;
   height: 100px; 
   background-color: blue; 
 } 

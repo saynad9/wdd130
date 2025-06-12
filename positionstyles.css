@@ -82,7 +82,7 @@
 .content3 {
   /* This is the parent of the activity 3 boxes. */
   display: grid;
-  grid-template-columns: 
+  grid-template-columns: 1fr 1fr';
 }
 .red3 {
   width: 100%; 

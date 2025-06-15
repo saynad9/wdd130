@@ -95,13 +95,13 @@
 } 
 .green3 {
   width: 100%; 
-  height: 100px; 
+  height: 100%; 
   background-color: green;
   grid-column: 1 / 3;
 } 
 .yellow3 {
   width: 100%; 
-  height: 100px; 
+  height: 100%; 
   background-color: gold; 
   grid-column: 3 / 5;
 } 

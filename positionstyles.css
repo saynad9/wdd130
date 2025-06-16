@@ -155,7 +155,7 @@
 /* Activity 5 styles */ 
 .content5 {
   /* This is the parent of the activity 5 boxes. */
-  diplay: flex;
+  display: flex;
   flex-direction: column;
   height: 600px;
 }

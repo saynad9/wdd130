@@ -157,7 +157,7 @@
   /* This is the parent of the activity 5 boxes. */
   diplay: flex;
   flex-direction: column;
-  height: 400px;
+  height: 500px;
 }
 .red5 { 
   width: 100%; 
@@ -165,8 +165,8 @@
   background-color: red; 
 } 
 .green5 { 
-  width: 200px; 
-  height: 200px; 
+  width: 100px; 
+  height: 100px; 
   background-color: green; 
   float: left;
 
@@ -174,13 +174,14 @@
 .yellow5 {
   flex-grow: 1; 
   background-color: gold; 
+  clear: both;
   
 } 
 .blue5 {
   width: 100%; 
   height: 100px; 
   background-color: blue; 
-  clear: both;
+
 } 
 /* Activity 6 styles */ 
 .content6 {

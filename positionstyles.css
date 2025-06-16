@@ -155,6 +155,8 @@
 /* Activity 5 styles */ 
 .content5 {
   /* This is the parent of the activity 5 boxes. */
+  diplay: flex;
+  flex-direction: column;
   height: 400px;
 }
 .red5 { 
@@ -166,11 +168,11 @@
   width: 200px; 
   height: 200px; 
   background-color: green; 
+  float: left;
 
 } 
 .yellow5 {
-  width: 100px; 
-  height: 100px; 
+  flex-grow: 1; 
   background-color: gold; 
   
 } 

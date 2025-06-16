@@ -170,14 +170,11 @@
   height: 100px; 
   background-color: green; 
   float: left;
-  flex-grow: 1;
-
 
 } 
 .yellow5 {
   flex-grow: 1; 
   background-color: gold; 
-  
   
 } 
 .blue5 {
@@ -212,16 +209,16 @@
   z-index: 1;
 } 
 .yellow6 {
-  width: 100px; 
-  height: 100px; 
+  width: 200px; 
+  height: 400px; 
   background-color: gold; 
   grid-column: 5/7;
   grid-row: 3/7;
   z-index: 1;
 } 
 .blue6 {
-  width: 100px; 
-  height: 100px; 
+  width: 400px; 
+  height: 400px; 
   background-color: blue; 
   grid-column: 2/6;
   grid-row: 2/6;

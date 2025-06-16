@@ -157,7 +157,7 @@
   /* This is the parent of the activity 5 boxes. */
   diplay: flex;
   flex-direction: column;
-  height: 500px;
+  height: 600px;
 }
 .red5 { 
   width: 100%; 

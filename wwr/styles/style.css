@@ -45,7 +45,7 @@ header {
     grid-template-columns: 150px auto;
 }
 nav a:hover{
-    background-color: greenyellow;
+    background-color: rgb(189, 207, 161);
     color: #023047;
     
 }
